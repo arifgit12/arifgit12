@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifgit12
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning ASP.NET CORE
+- 🌱 I’m currently learning micro services architecture
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me arifali.mondal@gmail.com
 
